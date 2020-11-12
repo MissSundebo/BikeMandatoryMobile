@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Bicycle Finder</string>
+    <string name="typing_error">No bikes typed</string>
+    <string name="bike_selection">No bike selected</string>
+    <string name="category">No category selected</string>
+    <string name="all_bikes_title">Title</string>
+    <string name="all_bikes_description"></string>
+    <string name="bike_details_button">Show bike details</string>
+
+
+    <string-array name="BikeBrands">
+        <item>Avenue</item>
+        <item>Batavus</item>
+        <item>Bianchi</item>
+        <item>Cannondale</item>
+        <item>Centurion</item>
+        <item>Cervélo</item>
+        <item>Cube</item>
+        <item>E-Fly</item>
+        <item>Everton</item>
+        <item>Giant</item>
+        <item>Haibike</item>
+        <item>Ideal Bikes</item>
+        <item>Jupiter</item>
+        <item>Kalkhoff</item>
+        <item>Kildemoes</item>
+        <item>MBK</item>
+        <item>Nishiki</item>
+        <item>Norden</item>
+        <item>Principia</item>
+        <item>Raleigh</item>
+        <item>Scott</item>
+        <item>Specialized</item>
+        <item>Trek</item>
+        <item>Winther</item>
+        <item>Unknown Brand</item>
+
+    </string-array>
+
+    <string-array name="BikeCategory">
+        <item>Adult</item>
+        <item>Child</item>
+        <item>City bike</item>
+        <item>Classic</item>
+        <item>Electric bike</item>
+        <item>MB</item>
+        <item>Racing bike</item>
+    </string-array>
+
+    <string-array name="BikeColours">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Grey</item>
+        <item>Mulicolour</item>
+        <item>Pastelcolours</item>
+        <item>Pink</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="BikesGender">
+        <item>Boy</item>
+        <item>Female</item>
+        <item>Girl</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="BikeDescription">
+        <item>No Description</item>
+        <item>Short Description</item>
+        <item>Detailed Description</item>
+    </string-array>
+
+    <integer-array name="BikeId">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </integer-array>
+
+
+    <integer-array name="BikeImageID">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
